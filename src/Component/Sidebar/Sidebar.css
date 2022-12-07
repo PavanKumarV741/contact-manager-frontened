@@ -1,0 +1,8 @@
+button{
+    display: flex;
+    flex-direction: column;
+}
+.logo-img{
+    width: 100px;
+    height: 90px;
+}
